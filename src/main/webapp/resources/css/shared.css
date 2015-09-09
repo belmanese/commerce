@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+.title {
+	font-weight: bold;
+	background-color: #C6C9C4;
+}
+
+.header, .action {
+	text-align: center;
+	margin: 25px;
+}
+
+.content {
+	margin: auto;
+}
